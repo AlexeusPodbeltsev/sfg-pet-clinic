@@ -65,9 +65,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <scm>
-        <developerConnection>scm:git:git@github.com:AlexeusPodbeltsev/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
 </project>
